@@ -1,2 +1,2 @@
 # lab06
-temp
+part1 gets a name as input and says hello to that name
