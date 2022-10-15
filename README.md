@@ -9,7 +9,7 @@ We chose the Contributor Code of Conduct. Of the two default templates that GitH
 ## Purpose
 part1 takes a name as input, then concatenates it with itself and prints it. 
 
-## Usage Instructions
+## Installation and Usage
 The part1 file can be obtained by cloning or forking the repository. To use, we suggest opening part1 in a Jupyter environment. Run the program and type a string.
 
 ## Contributing
